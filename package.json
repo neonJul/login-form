@@ -2,6 +2,7 @@
   "name": "login-form",
   "private": true,
   "version": "0.0.0",
+  "homepage": "https://neonjul.github.io/login-form/",
   "type": "module",
   "scripts": {
     "dev": "vite",
